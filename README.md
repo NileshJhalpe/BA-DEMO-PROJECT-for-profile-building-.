@@ -1,1 +1,1 @@
-# BA-DEMO-PROJECT-for-profile-building-.
+# BA-DEMO-PROJECT-for-profile-building.
