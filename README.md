@@ -1,1 +1,1 @@
-# BA-DEMO-PROJECT-for-profile-building.
+# BUSINESS-ANALYSIS (DEMO PROJECT)
